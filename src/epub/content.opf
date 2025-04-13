@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/r-austin-freeman/the-eye-of-osiris</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-13T21:36:23Z</dc:date>
+		<meta property="dcterms:modified">2025-04-13T21:36:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,16 +46,17 @@
 		<meta id="collection-1" property="belongs-to-collection">Doctor Thorndyke</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A newly qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.</dc:description>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<dc:description id="description">A newly-qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Newly qualified doctor Paul Berkeley takes over the care of Godfrey Bellingham, whose elder brother John, a renowned collector of Egyptian artifacts, has disappeared under mysterious circumstances. With John’s health and whereabouts unknown and his will an intractable muddle, the family fortune is locked in limbo, and Godfrey and his daughter Ruth find themselves on the verge of destitution. As Berkeley becomes ever more invested in the case and its outcome, he calls upon his former teacher, renowned forensic scientist Dr. John Thorndyke, to help solve the baffling mystery.&lt;/p&gt;
-			&lt;p&gt;Dr. John Thorndyke is the lead investigator of twenty-one novels and numerous short stories by &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman"&gt;R. Austin Freeman&lt;/a&gt;. Freeman is noted for the medical and scientific accuracy of his mysteries.&lt;/p&gt;
+			&lt;p&gt;Newly-qualified doctor Paul Berkeley takes over the care of Godfrey Bellingham, whose elder brother John, a renowned collector of Egyptian artifacts, has disappeared under mysterious circumstances. With John’s whereabouts unknown and his will an intractable muddle, the family fortune is locked in limbo, and Godfrey and his daughter Ruth find themselves on the verge of destitution. As Berkeley becomes ever more invested in the case and its outcome, he calls upon his former teacher, renowned forensic scientist &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. John Thorndyke&lt;/a&gt;, to help solve the mystery.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24201</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664626</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">95785</meta>
+		<meta property="se:reading-ease.flesch">62.38</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-austin-freeman_the-eye-of-osiris</meta>
 		<dc:creator id="author">R. Austin Freeman</dc:creator>
 		<meta property="file-as" refines="#author">Freeman, R. Austin</meta>
@@ -84,6 +85,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
