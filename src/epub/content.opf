@@ -49,9 +49,9 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A newly-qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.</dc:description>
+		<dc:description id="description">A newly qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Newly-qualified doctor Paul Berkeley takes over the care of Godfrey Bellingham, whose elder brother John, a renowned collector of Egyptian artifacts, has disappeared under mysterious circumstances. With John’s whereabouts unknown and his will an intractable muddle, the family fortune is locked in limbo, and Godfrey and his daughter Ruth find themselves on the verge of destitution. As Berkeley becomes ever more invested in the case and its outcome, he calls upon his former teacher, renowned forensic scientist &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. John Thorndyke&lt;/a&gt;, to help solve the mystery.&lt;/p&gt;
+			&lt;p&gt;Newly qualified doctor Paul Berkeley takes over the care of Godfrey Bellingham, whose elder brother John, a renowned collector of Egyptian artifacts, has disappeared under mysterious circumstances. With John’s whereabouts unknown and his will an intractable muddle, the family fortune is locked in limbo, and Godfrey and his daughter Ruth find themselves on the verge of destitution. As Berkeley becomes ever more invested in the case and its outcome, he calls upon his former teacher, renowned forensic scientist &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. John Thorndyke&lt;/a&gt;, to help solve the mystery.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24201</dc:source>
