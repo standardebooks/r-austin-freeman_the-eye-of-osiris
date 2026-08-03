@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/r-austin-freeman/the-eye-of-osiris</dc:identifier>
 		<dc:date>2025-04-13T21:36:23Z</dc:date>
@@ -50,10 +50,10 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A newly qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A newly qualified doctor helps his former teacher, a famed forensic scientist, unravel a case involving ancient Egyptian artifacts, a missing person, and a mysterious will.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Newly qualified doctor Paul Berkeley takes over the care of Godfrey Bellingham, whose elder brother John, a renowned collector of Egyptian artifacts, has disappeared under mysterious circumstances. With John’s whereabouts unknown and his will an intractable muddle, the family fortune is locked in limbo, and Godfrey and his daughter Ruth find themselves on the verge of destitution. As Berkeley becomes ever more invested in the case and its outcome, he calls upon his former teacher, renowned forensic scientist &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. John Thorndyke&lt;/a&gt;, to help solve the mystery.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24201</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664626</dc:source>
